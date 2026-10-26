@@ -1,6 +1,6 @@
 # Hi, I'm Achmad Budi Utomo 👋
 
-**Flight Performance Engineer | Flight Test Engineer | Flight Test Data Analyst
+**Flight Performance Engineer | Flight Test Engineer | Flight Test Data Analyst**
 
 I am an aerospace engineer working at the intersection of **aircraft performance, flight testing, data analysis, and engineering software**. My experience spans fixed-wing aircraft, rotorcraft, and eVTOL development, including flight-test planning, data processing, performance evaluation, and certification support.
 
@@ -57,6 +57,6 @@ My long-term goal is to develop **open-source aerospace engineering software** t
 ## 🤝 Connect
 
 - **GitHub:** [github.com/abudto](https://github.com/abudto)
-- **LinkedIn:** https://www.linkedin.com/in/achmad-budi-utomo/
+- **LinkedIn:** [Achmad Budi Utomo](https://www.linkedin.com/in/achmad-budi-utomo/)
 
 *Building software informed by real-world flight-test and aircraft-performance engineering.*
