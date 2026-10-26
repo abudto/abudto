@@ -1,6 +1,6 @@
 # Hi, I'm Achmad Budi Utomo 👋
 
-**Flight Performance Engineer | Flight Test Engineer | Python Developer**
+**Flight Performance Engineer | Flight Test Engineer | Flight Test Data Analyst
 
 I am an aerospace engineer working at the intersection of **aircraft performance, flight testing, data analysis, and engineering software**. My experience spans fixed-wing aircraft, rotorcraft, and eVTOL development, including flight-test planning, data processing, performance evaluation, and certification support.
 
@@ -23,7 +23,7 @@ An open-source application being developed to support the flight-test lifecycle:
 | --- | --- | --- |
 | **Flight Test Management System (FTMS)** | Flight-test planning, execution records, traceability, and document generation | **In development** · [Repository](https://github.com/abudto/flight-test-management-system-app) |
 | **AeroCopilot** | AI-assisted flight-test knowledge, documentation, and analysis workflows | **Concept / planned** |
-| **Flight Data Analysis Tools (SoraPlot / SoraData)** | Time-series processing, visualization, overlays, data standardization, and reporting | **Existing tools; public release not announced** |
+| **Flight Data Analysis Tools** | Time-series processing, visualization, overlays, data standardization, and reporting | **Existing tools; public release not announced** |
 | **Aircraft / eVTOL Performance Tools** | Performance calculations, power analysis, range and energy estimation, and model comparison | **Existing engineering work; public release not announced** |
 | **Flight-Test Data Platform** | Structured flight metadata, searchable test data, and reproducible analysis pipelines | **Future direction** |
 
@@ -57,6 +57,6 @@ My long-term goal is to develop **open-source aerospace engineering software** t
 ## 🤝 Connect
 
 - **GitHub:** [github.com/abudto](https://github.com/abudto)
-- **LinkedIn:** Add your verified public LinkedIn URL here
+- **LinkedIn:** https://www.linkedin.com/in/achmad-budi-utomo/
 
 *Building software informed by real-world flight-test and aircraft-performance engineering.*
